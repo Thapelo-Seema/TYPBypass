@@ -1,0 +1,14 @@
+C:\Users\Teacher\source\repos\BettyAppAPI\BettyAppAPI\bin\Debug\netcoreapp2.2\BettyAppAPI.deps.json
+C:\Users\Teacher\source\repos\BettyAppAPI\BettyAppAPI\bin\Debug\netcoreapp2.2\BettyAppAPI.runtimeconfig.json
+C:\Users\Teacher\source\repos\BettyAppAPI\BettyAppAPI\bin\Debug\netcoreapp2.2\BettyAppAPI.runtimeconfig.dev.json
+C:\Users\Teacher\source\repos\BettyAppAPI\BettyAppAPI\bin\Debug\netcoreapp2.2\BettyAppAPI.dll
+C:\Users\Teacher\source\repos\BettyAppAPI\BettyAppAPI\bin\Debug\netcoreapp2.2\BettyAppAPI.pdb
+C:\Users\Teacher\source\repos\BettyAppAPI\BettyAppAPI\obj\Debug\netcoreapp2.2\BettyAppAPI.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\BettyAppAPI\BettyAppAPI\obj\Debug\netcoreapp2.2\BettyAppAPI.RazorAssemblyInfo.cache
+C:\Users\Teacher\source\repos\BettyAppAPI\BettyAppAPI\obj\Debug\netcoreapp2.2\BettyAppAPI.RazorAssemblyInfo.cs
+C:\Users\Teacher\source\repos\BettyAppAPI\BettyAppAPI\obj\Debug\netcoreapp2.2\BettyAppAPI.AssemblyInfoInputs.cache
+C:\Users\Teacher\source\repos\BettyAppAPI\BettyAppAPI\obj\Debug\netcoreapp2.2\BettyAppAPI.AssemblyInfo.cs
+C:\Users\Teacher\source\repos\BettyAppAPI\BettyAppAPI\obj\Debug\netcoreapp2.2\BettyAppAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Teacher\source\repos\BettyAppAPI\BettyAppAPI\obj\Debug\netcoreapp2.2\BettyAppAPI.dll
+C:\Users\Teacher\source\repos\BettyAppAPI\BettyAppAPI\obj\Debug\netcoreapp2.2\BettyAppAPI.pdb
+C:\Users\Teacher\source\repos\BettyAppAPI\BettyAppAPI\obj\Debug\netcoreapp2.2\BettyAppAPI.csprojAssemblyReference.cache
